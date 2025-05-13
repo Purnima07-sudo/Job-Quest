@@ -67,11 +67,6 @@ Before getting started, make sure you have the following installed on your machi
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/Krishnanand2517/job-quest-java
-   cd job-quest-java
-   ```
-
 1. Navigate to the backend directory `jobquestbackend` & open the folder in any IDE configured for Spring Boot (preferably IntelliJ IDEA).
 
 1. Sync all the Maven dependencies.
@@ -82,21 +77,13 @@ Before getting started, make sure you have the following installed on your machi
 
 1. Once you have setup the project and its dependencies, you can run the server.
 
-   This will start the backend server on port 8080, and you can access it in your web browser at http://localhost:8080/.
-
-   Check it by navigating to http://localhost:8080/api/v1/jobs !
+   This will start the backend server on port 8080, and you can access it.
+!
 
 1. Navigate to the frontend directory and install project dependencies:
 
-   ```bash
-   npm install
-   ```
-
 1. Run the development server for frontend:
 
-   ```bash
-   npm run dev
-   ```
 
    This will start the frontend server on port 5173, and you can access the web app in your web browser at http://localhost:5173
 
